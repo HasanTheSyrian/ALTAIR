@@ -9,3 +9,22 @@ I have created a YouTube series that talks about the design which can be seen [h
 ---
 
 The schematic is nearly complete. The attached PDF only shows the **incomplete schematic**; more complete documentation will be available when this board is manufactured and tested.
+
+Systems/circuits:
+Power ✅
+Boot ✅
+MIPI ✅
+SD Card ✅
+JTAG ✅
+UART ✅
+HDMI x2 ✅
+USB x4 ✅
+Ethernet
+PMOD
+I2C
+Expansion
+
+Layout & Routing:
+NONE
+
+*Circuits marked as "completed" still need to be revised and refined before layout & routing.
