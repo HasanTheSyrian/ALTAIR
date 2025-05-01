@@ -19,9 +19,9 @@ JTAG ✅ <br />
 UART ✅ <br />
 HDMI x2 ✅ <br />
 USB x4 ✅ <br />
-Ethernet <br /> 
-PMOD <br />
-I2C <br /> 
+Ethernet ✅ <br /> 
+PMOD ✅ <br />
+I2C ✅ <br /> 
 Expansion <br />
 <br />
 **Layout & Routing:** <br />
