@@ -22,7 +22,7 @@ USB x4 ✅ <br />
 Ethernet ✅ <br /> 
 PMOD ✅ <br />
 I2C ✅ <br /> 
-Expansion <br />
+Expansion ✅ <br />
 <br />
 **Layout & Routing:** <br />
 NONE<br />
