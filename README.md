@@ -10,6 +10,8 @@ I have created a YouTube series that talks about the design which can be seen [h
 
 The schematic is nearly complete. The attached PDF only shows the **incomplete schematic**; more complete documentation will be available when this board is manufactured and tested.
 
+6/8/25 Update: the schematic is 99% complete, the current one is quite out-dated, everything will be upated within the next month and videos will also return.
+
 **Systems/circuits:**<br />
 Power ✅ <br />
 Boot ✅ <br />
@@ -27,4 +29,7 @@ Expansion ✅ <br />
 **Layout & Routing:** <br />
 NONE<br />
 <br />
+
+<img width="1180" height="851" alt="image" src="https://github.com/user-attachments/assets/b61c584b-9e45-482f-a4bb-8010001d16ea" />
+
 *Circuits marked as "completed" still need to be revised and refined before layout & routing.
