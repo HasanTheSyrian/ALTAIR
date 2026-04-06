@@ -8,11 +8,9 @@ I have created a YouTube series that talks about the design which can be seen [h
 
 ---
 
-The schematic is nearly complete. The attached PDF only shows the **incomplete schematic**; more complete documentation will be available when this board is manufactured and tested.
+The design files are outdated. The design is complete and I will update the repository soon.
 
-6/8/25 Update: the schematic is 99% complete, the current one is quite out-dated, everything will be upated within the next month and videos will also return.
-
-**Systems/circuits:**<br />
+-Systems/circuits:<br />
 Power ✅ <br />
 Boot ✅ <br />
 MIPI ✅ <br />
@@ -24,13 +22,22 @@ USB x4 ✅ <br />
 Ethernet ✅ <br /> 
 PMOD ✅ <br />
 I2C ✅ <br /> 
-Expansion ✅ <br />
+
 <br />
-**Layout & Routing:** <br />
-NONE<br />
+-Layout and Routing:
 <br />
+Complete ✅ <br />
+<br />
+
+<img width="971" height="702" alt="Screenshot 2026-04-05 140154" src="https://github.com/user-attachments/assets/84d6ac08-a56f-4cb6-a30b-f52b7d49380a" />
+<img width="1135" height="776" alt="image" src="https://github.com/user-attachments/assets/31364063-e56d-417c-bd2a-054085c87402" />
+
+
+
+<details>
+
+<summary>Archive</summary>
 
 <img width="1110" height="803" alt="image" src="https://github.com/user-attachments/assets/3cb0f376-9b8b-4708-ab03-ded84dc060fe" />
 
-
-*Circuits marked as "completed" still need to be revised and refined before layout & routing.
+</details>
