@@ -5,12 +5,12 @@
 The Altair is an FPGA development board focused on image processing, specifically, stereoscopic depth calculation enabled by two MIPI camera connectors. The board implements XAPP894 since MIPI is not supported natively by Zynq 7000. The development board is built around the MYC-C7Z010_20 SOM. This board is also my graduation project/thesis for my Mechatronics Engineering degree.
 
 ---
-
+NOTE: THIS BOARD IS NOT TESTED YET
 ### Docs
 MYIR software and hardware documents can be downloaded from here: https://d.myirtech.com/MYD-C7Z010_20/
 Software documentation/code is not included because the size is too big.
 
-AltairNotes PDF contains my notes I have written over the ~2 years I have been working on this project. Some information is basic stuff about PCB routing and some information documents how I have configured and routed my board
+AltairNotes PDF contains my notes I have written over the ~2 years I have been working on this project. Some information is basic stuff about PCB routing and some information documents how I have configured and routed my board.
 
 I combined software and hardware PDS into PDF files ending in "COMBINED" so you can easily search for what you want.
 
