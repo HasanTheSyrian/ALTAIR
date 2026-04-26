@@ -1,0 +1,17 @@
+\t (00:00:10) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Sat Oct  4 17:42:25 2025
+\t (00:00:10)         Host=HASAN User=hasan Pid=44776 CPUs=12
+\t (00:00:10) CmdLine= c:\cadence\spb_23.1\tools\bin\allegro.exe G:\Other computers\My Computer (3)\Documents\Datasheets and AN\Altair Documentation\Myir Dev Board\Hardware\Misc\MYB-C7Z010_20_Allegro_Package_LIB\hy91130a.dra
+\t (00:00:10) 
+   (00:00:10) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\e (00:00:12) ERROR(SPMHDB-181): The current version of software is unable to open design G:/Other computers/My Computer (3)/Documents/Datasheets and AN/Altair Documentation/Myir Dev Board/Hardware/Misc/MYB-C7Z010_20_Allegro_Package_LIB/hy91130a.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\e (00:00:12) ERROR(SPMHDB-181): The current version of software is unable to open design G:/Other computers/My Computer (3)/Documents/Datasheets and AN/Altair Documentation/Myir Dev Board/Hardware/Misc/MYB-C7Z010_20_Allegro_Package_LIB/hy91130a.dra.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\i (00:00:14) fillin confirm
+\t (00:00:14) Starting new design...
+\i (00:00:15) trapsize 116667
+\i (00:00:15) generaledit 
+\i (00:10:02) exit 
+\t (00:10:02)     Journal end - Sat Oct  4 17:52:18 2025

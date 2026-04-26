@@ -1,0 +1,118 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.100000")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\myb-c7z010_20_orcad_lib.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\myb-c7z010_20_orcad_lib.olb")
+      (Path "PSpice Resources")
+      (Select "Design Resources" ".\myb-c7z010_20_orcad_lib.olb" "CON2x6"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 397 0 747"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "HY911130A")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "OFF_PAGE_RIGHT")
+      (PartType "0"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "SFP_CON")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "VDD_1V8")
+      (PartType "0"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "SK-12F14_2")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "EPS-OFFPAGE")
+      (PartType "0"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "ADUM1201")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "CON70X2")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "CON4")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1477 24 765"))
+      (Path
+         "G:\OTHER COMPUTERS\MY COMPUTER (3)\DOCUMENTS\DATASHEETS AND AN\ALTAIR DOCUMENTATION\MYIR DEV BOARD\HARDWARE\MISC\MYB-C7Z010_20_ORCAD_LIB\MYB-C7Z010_20_ORCAD_LIB.OLB")
+      (Package "CON2X6")
+      (PartType "1")))
+  (MPSSessionName "hasan"))

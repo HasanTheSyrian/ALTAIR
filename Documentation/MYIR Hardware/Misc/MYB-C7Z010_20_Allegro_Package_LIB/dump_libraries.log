@@ -1,0 +1,411 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jun 11 17:51:32 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20-V11-20150512.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  SPD_3_5X1_2 being dumped.
+
+  SPD_0_3X0_9 being dumped.
+
+  1_6SQ1 being dumped.
+
+  PAD0_8 being dumped.
+
+  O12X120 being dumped.
+
+  CIR1_0 being dumped.
+
+  PAD197CIR119D being dumped.
+
+  O40X100C90X160 being dumped.
+
+  R78X100 being dumped.
+
+  PAD1_3CIR0_8 being dumped.
+
+  CMSREC1_35X1 being dumped.
+
+  RECT0_3X0_65 being dumped.
+
+  R98X138 being dumped.
+
+  10X33OV being dumped.
+
+  SPD_0_6X1_55 being dumped.
+
+  1_6CIR1 being dumped.
+
+  SPD3_175X5_08 being dumped.
+
+  HOLE1_0 being dumped.
+
+  VIA20D12 being dumped.
+
+  HOLE2_0 being dumped.
+
+  HOLE1_2 being dumped.
+
+  TH138O40 being dumped.
+
+  HOLE3_2 being dumped.
+
+  HOLE3_3 being dumped.
+
+  HOLE1_5 being dumped.
+
+  HOLE2_5 being dumped.
+
+  SM0_7X1 being dumped.
+
+  SMD80SQ being dumped.
+
+  HOLE1_8 being dumped.
+
+  10X33REC being dumped.
+
+  HOLE2_0CIR1_5 being dumped.
+
+  HOLE1_8CIR1_0 being dumped.
+
+  HOLE3_3CIR2_3 being dumped.
+
+  SMD_SQU1_5_1 being dumped.
+
+  HOLE0_9CIR0_5 being dumped.
+
+  HOLE1_6CIR0_9 being dumped.
+
+  SMD20X24 being dumped.
+
+  SMD_SQU1_3_7 being dumped.
+
+  SPD61X10 being dumped.
+
+  SPD61X12 being dumped.
+
+  SMD40_50 being dumped.
+
+  SMD40_60 being dumped.
+
+  SMD20_17 being dumped.
+
+  SPD71X17 being dumped.
+
+  SPD63X17 being dumped.
+
+  OBLONG0_8X1_2 being dumped.
+
+  SMD25_70 being dumped.
+
+  TH45_65C being dumped.
+
+  SMD18X49 being dumped.
+
+  CMSREC1_9X0_6 being dumped.
+
+  OBLONG0_8X1_5 being dumped.
+
+  SMD71X79 being dumped.
+
+  HOLE1_05 being dumped.
+
+  HOLE1_42 being dumped.
+
+  HOLE2_35 being dumped.
+
+  TH45_65S being dumped.
+
+  HOLE0_85 being dumped.
+
+  HOLE0_95 being dumped.
+
+  SM9_8X24 being dumped.
+
+  R1_4X2_1 being dumped.
+
+  R1_2X2_5 being dumped.
+
+  O0_3X2_9 being dumped.
+
+  HOLE2_3CIR1_65 being dumped.
+
+  R0_5X0_8 being dumped.
+
+  SM186X186 being dumped.
+
+  SPD1X0_8 being dumped.
+
+  HOLE1_0P being dumped.
+
+  HOLE2_1P being dumped.
+
+  HOLE62D35 being dumped.
+
+  CMSREC1_35X1_1 being dumped.
+
+  C45 being dumped.
+
+  HOLE0_7P being dumped.
+
+  HOLE3_5P being dumped.
+
+  S60 being dumped.
+
+  CMSSQ1_6 being dumped.
+
+  1MM6X1MM8 being dumped.
+
+  O_89X0_27 being dumped.
+
+  HOLE1_35P being dumped.
+
+  HOLE0_74P being dumped.
+
+  SMD_59X47 being dumped.
+
+  SMD_98X47 being dumped.
+
+  RECT0_3X1 being dumped.
+
+  PAD35CIR26 being dumped.
+
+  HOLE1_3NP being dumped.
+
+  HOLE0_8NP being dumped.
+
+  R0_25X0_90 being dumped.
+
+  PAD5 being dumped.
+
+  R2_45X2_45 being dumped.
+
+  SMD_OBL1_0X0_28 being dumped.
+
+  PAD0_2X0_5 being dumped.
+
+  P8XP8R_MM being dumped.
+
+  PAD0_9X1_2 being dumped.
+
+  HOLE1_27NP being dumped.
+
+  HOLE1_55NP being dumped.
+
+  SPD2_2X1_2 being dumped.
+
+  SPD2_1X2_2 being dumped.
+
+  SPD1_4X1_2 being dumped.
+
+  SMD1_5X3_3 being dumped.
+
+  PAD1_3X1_3CIR0_8 being dumped.
+
+  SPD1_6X1_4 being dumped.
+
+  SPD1_4X1_6 being dumped.
+
+  TH71D43DOT3 being dumped.
+
+  PAD31 being dumped.
+
+  SPD1_6X0_7 being dumped.
+
+  SPD1_8X3_3 being dumped.
+
+  SPD2_5X1_8 being dumped.
+
+  134SQ being dumped.
+
+  SMD70X137_8 being dumped.
+
+  SMD_CIR0_4 being dumped.
+
+  PAD0_2X0_45 being dumped.
+
+  C63D36 being dumped.
+
+  SQ3_0 being dumped.
+
+  SPD0_7X0_22 being dumped.
+
+  S63D36 being dumped.
+
+  SPD3_2X1_27 being dumped.
+
+  W36H32 being dumped.
+
+  R50X40 being dumped.
+
+  R25X70 being dumped.
+
+  65X12R being dumped.
+
+  O40X72C80X120 being dumped.
+
+  75X12R being dumped.
+
+  CMSREC3_2X2 being dumped.
+
+  RECT0_5X2_0 being dumped.
+
+  RECT2_0X1_5 being dumped.
+
+  RECT2_0X2_5 being dumped.
+
+  RECT1_2X2_5 being dumped.
+
+  RECT1_3X1_5 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  soic-8 being dumped.
+
+  led0805 being dumped.
+
+  wqfn24 being dumped.
+
+  l5x5_7 being dumped.
+
+  c3528-21 being dumped.
+
+  smd3225 being dumped.
+
+  h2x7mz being dumped.
+
+  hdmi-19 being dumped.
+
+  tdfn-10 being dumped.
+
+  sot23-5 being dumped.
+
+  mect-110-01-m-d being dumped.
+
+  qfn72p_sq_20 being dumped.
+
+  smbj_2_2x2_1 being dumped.
+
+  con2_35 being dumped.
+
+  5177984-6 being dumped.
+
+  hy91130a being dumped.
+
+  12pin2_54_90degrees being dumped.
+
+  sdcw2012 being dumped.
+
+  tssop24 being dumped.
+
+  tssop16 being dumped.
+
+  74737-0009 being dumped.
+
+  sk_12f14 being dumped.
+
+  crs_do214ab_01 being dumped.
+
+  l2_5x3_2 being dumped.
+
+  smd5x3_2 being dumped.
+
+  bar2pts02 being dumped.
+
+  bar3pts02 being dumped.
+
+  so8 being dumped.
+
+  m3-1 being dumped.
+
+  us8 being dumped.
+
+  7pin-sasa being dumped.
+
+  key being dumped.
+
+  pcie-064-02-f-d-th being dumped.
+
+  c0402 being dumped.
+
+  d0402 being dumped.
+
+  c1206 being dumped.
+
+  c0603 being dumped.
+
+  ftsh-125-02-l-d-el being dumped.
+
+  c0805 being dumped.
+
+  f1812 being dumped.
+
+  m2_5 being dumped.
+
+  l0603 being dumped.
+
+  r0402 being dumped.
+
+  l0805 being dumped.
+
+  so16-300mil being dumped.
+
+  r1206 being dumped.
+
+  con_3_wdc001_575 being dumped.
+
+  ky001 being dumped.
+
+  tf01a being dumped.
+
+  asp-134603-01 being dumped.
+
+  qfn16 being dumped.
+
+  4pin5 being dumped.
+
+  smd_fpc_2x25_p20 being dumped.
+
+  b0505s being dumped.
+
+  sc70-6 being dumped.
+
+  dct8p being dumped.
+
+  usb2514-qfn36_1p5a being dumped.
+
+  subd9m_h_c being dumped.
+
+  double_usb being dumped.
+
+  ce8x10 being dumped.
+
+  sod323 being dumped.
+
+  sot-23 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              127
+Number of package symbols dumped:         62
+
+Total number of symbols dumped:           62
+*****************************************************
+

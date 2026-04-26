@@ -1,0 +1,121 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : MYB-C7Z010_20-V11-20150512.brd                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jun 11 17:51:32 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c1206_22uf120616v.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0603_1uf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ecap_c1206_22uf120616v.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/cap_c1206_22uf120616v.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ecap_normal_c1206_discrete_22uf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/led_ltst-c150gkt_1_led0805_di_1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/bat54csot_1_sot-23_bat54csot_.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/bead_ferrite_l0805_150r800ma.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/fer_180_200_0_l0603_600r200ma.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tf134-50rl-tand_1_ftsh-125-02-l.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tf134-50rl-tand_2_smd_fpc_2x25_.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/jtag_0_h2x7mz_jtag.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tsw2pts-droit_1_bar2pts02_2pin.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sn74aup2g08dqer_us8_sn74aup2g08.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/con4_4pin5_sata_power_male.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0805_10uf0805_10.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ecap_ce8x10_220uf25v.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sip3-droit_bar3pts02_sip3.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/batteryholder_3_ky001_batteryho.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/mhole_m2_5_mhole.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tsc2007_tssop16_tsc2007ipw.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ds3231_0_so16-300mil_ds3231s.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ecap_normal_c3528-21_discrete_4.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_10pf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/pcie_bracket_x4_0_pcie-064-02-f.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sata-vert_0_7pin-sasa_7pin_sata.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sfp_cap_74737-0009_sfp_cage.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/minisd_1_tf01a_tf01a.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/hy911130a_hy91130a_hy911130a.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_10knc.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_51k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/si52112_tdfn_tdfn-10_si52112_td.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/rt9013_sot23-5_rp104n181b-tr-fe.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sil9022a_qfn72p_sq_20_sil9022a.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/con70x2_5177984-6_con70x2.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/lp_fmc_asp-134603-01_s1s2s3.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/con2x6_12pin2_54_90degrees_con2.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/cry_diff_smd5x3_2_100m.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0805_10uf0805.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_01ufnc.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_33nf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c1206_10nf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/cap_c0402_01uf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_20pf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0603_47uf0603.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tsw2pts-droit_1_con2_35_2pin_3.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sfp_con_mect-110-01-m-d_sfp_con.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/diode_1_crs_do214ab_01_smcj12.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/led_ltst-c150gkt_1_led0805_disc.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/fer_180_200_0_l0603_220r300ma.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sk-12f14_2_sk_12f14_sk-12f14.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/hdmi_con_2_hdmi-19_hdmiacon.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ind_10uh_l5x5_7_jmc0503-2r2m.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ind_22uh_l0805_10uh_150ma.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/common_choke_sdcw2012_sdcw2012-.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ind_10uh_l2_5x3_2_1uh.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/npn_bec_sot-23_npn_bec.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_100k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_240k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_0rnc.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r1206_120r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_47k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_820r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_20k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_12k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_1m.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_680k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_100knc.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_130k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_22k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_43k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_750k1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/rt9013_sot23-5_rt9013-12pb.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/txs0102dcu_dct8p_txs0102dctr.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/b0505s_b0505s_b0505s.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/adum1201_so8_adum1201.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/pca82c251_so8_tja1050t.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/txs02612rtwr_wqfn24_txs02612rtw.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tlv62130rgt_0_qfn16_tlv62130a.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sn74lvc2g07_sc70-6_sn74lvc2g07.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/smsc_usb251234_0_usb2514-qfn3.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sp2526a-1en-l_soic-8_sp2526a-1e.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/tpd12s016_tssop24_tpd12s016.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/crys_1_smd3225_25m.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_dnp.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/max3232cse_0_tssop16_sp3232eey.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/fer_180_200_0_l0805_150r800ma.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/fuse_f1812_fuse2a.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_5pf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/dio_sr305_th_1_sod323_rb751v40.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/capnp_c0402_01uf.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/pgb0010603mr_d0402_tvs.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/pgb0010603mr_smbj_2_2x2_1_tvs.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/connectordb9_0_subd9m_h_c_db-9.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/mhole_m3-1_mhole.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/power_jack_con_3_wdc001_575_pj-.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_0r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_22r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_10k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_1k.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_47k__1.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_33r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/r_r0402_470r.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/crystal4p_3_smd3225_24m.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/ccusba-32002-30x_0_double_usb_u.txt': written successfully.
+Device file 'E:/Work/PJT_Work/2 Z7010/4 zq7010D2/layout/MYB-C7Z010_20_Allegro_Package_LIB/sw_push2_1_key_int0.txt': written successfully.
+
+  Created device files: 106
+
