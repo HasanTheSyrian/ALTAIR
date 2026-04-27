@@ -8,8 +8,7 @@ The Altair is an FPGA development board focused on image processing, specificall
 ---
 NOTE: THIS BOARD IS NOT TESTED YET
 ### Docs
-MYIR software and hardware documents can be downloaded from here: https://d.myirtech.com/MYD-C7Z010_20/
-Software documentation/code is not included because the size is too big.
+This board is built with the MYIR MYC-C7Z020-V2 SOM. MYIR documents can only be downloaded after providing the serial number of the MYC-C7Z020-V2 purchased, unfortunately, I can't share mine. Most MYIR hardware documents can be downlodaded from this repository. I haven't included software documents/code because the file size is too big however you can probably find them online elsewhere.
 
 AltairNotes PDF contains my notes I have written over the ~2 years I have been working on this project. Some information is basic stuff about PCB routing and some information documents how I have configured and routed my board.
 
@@ -35,7 +34,28 @@ Not all references are included because I'm not sure if they can be shared direc
 | [Zynq-7000 SoC Packaging and Pinout Product Specification](https://docs.amd.com/v/u/en-US/ug865-Zynq-7000-Pkg-Pinout)                                                    | UG865  |
 | xc7z020clg400pkg (.txt)                                                                                                                                                  | FPGA Package Pinout  |
 
-
+#### Board schematics used as references in part
+| Title                                                                                                                                                                    | Notes      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |------------|
+| MYB-C7Z010_20-V2 Schematic                                                                                                                                               | MYIR Docs  |
+| arty_z7_sch                                                                                                                                                              |   |
+| digilent-smt3-reversed-sch                                                                                                                                               | Reverse engineered programmer published on IEEE  |
+| eclypse_z7_sch                                                                                                                                                           |   |
+| minized_sch                                                                                                                                                              |   |
+| mizar_z7-sch                                                                                                                                                             |   |
+| pynq-z1_sch                                                                                                                                                              |   |
+| pynq-z2_sch                                                                                                                                                              |   |
+| rehsd_sch                                                                                                                                                                | rehsd on YouTube  |
+| snickerdoodle_sch                                                                                                                                                        |   |
+| trenz_carrier_TE0701_sch                                                                                                                                                 |   |
+| zc702_sch                                                                                                                                                                |   |
+| zc706-sch                                                                                                                                                                |   |
+| trenz_carrier_TE0701_sch                                                                                                                                                 |   |
+| zc702_sch                                                                                                                                                                |   |
+| zedboard_sch                                                                                                                                                             |   |
+| zybo-z7_sch                                                                                                                                                              |   |
+| zynqberry2010_sch                                                                                                                                                        |   |
+| zynqberry-zero_sch                                                                                                                                                       |   |
 
 #### AMD Documentaion
 | Title                                                                                                                                                                    | Code   |
