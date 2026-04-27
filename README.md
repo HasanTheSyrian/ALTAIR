@@ -20,7 +20,23 @@ I have created a YouTube series that talks about the design which can be seen [h
 Not all references are included because I'm not sure if they can be shared directly, however, you should be able to just search for them and download them from their official source.
 
 #### Most important/relevant
-WIP...
+| Title                                                                                                                                                                    | Notes      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |------------|
+| HARDWARE DOCS COMBINED                                                                                                                                                   | MYIR Docs  |
+| MYC-C7Z010-20-V2 Hardware Design Guide-V1.0                                                                                                                              | MYIR Docs  |
+| SOFTWARE DOCS COMBINED                                                                                                                                                   | MYIR Docs  |
+| MYB-C7Z010_20-V2 Schematic                                                                                                                                               | MYIR Docs  |
+| MYD-C7Z01020-V2 PinOuts                                                                                                                                                  | MYIR Docs, SOM Pinout  |
+| MYC-C7z010-V12-SOM-NET-LENGTH                                                                                                                                            | MYIR Docs  |
+| ADV7511_Hardware_Users_Guide                                                                                                                                             |            |
+| [Zynq 7000 SoC Technical Reference Manual](https://docs.amd.com/r/en-US/ug585-zynq-7000-SoC-TRM)                                                                         | UG585  |
+| [Zynq-7000 SoC PCB Design Guide](https://docs.amd.com/v/u/en-US/ug933-Zynq-7000-PCB)                                                                                     | UG933  |
+| [7 Series FPGAs SelectIO Resources User Guide](https://docs.amd.com/v/u/en-US/ug471_7Series_SelectIO)                                                                    | UG471  |
+| [Zynq-7000 SoC Packaging and Pinout Product Specification](https://docs.amd.com/v/u/en-US/ug865-Zynq-7000-Pkg-Pinout)                                                    | UG865  |
+| xc7z020clg400pkg (.txt)                                                                                                                                                  | FPGA Package Pinout  |
+
+
+
 #### AMD Documentaion
 | Title                                                                                                                                                                    | Code   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
