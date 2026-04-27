@@ -19,14 +19,60 @@ I have created a YouTube series that talks about the design which can be seen [h
 Not all references are included because I'm not sure if they can be shared directly, however, you should be able to just search for them and download them from their official source.
 
 #### Most important/relevant
-<img width="635" height="577" alt="image" src="https://github.com/user-attachments/assets/6b023871-2231-4977-983b-18a1aff165ff" />
 
-#### Other docs
+#### AMD Documentaion
+| Title                                                                                                                                                                    | Code   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| [Zynq 7000 SoC Technical Reference Manual](https://docs.amd.com/r/en-US/ug585-zynq-7000-SoC-TRM)                                                                         | UG585  |
+| [Zynq-7000 SoC PCB Design Guide](https://docs.amd.com/v/u/en-US/ug933-Zynq-7000-PCB)                                                                                     | UG933  |
+| [Zynq-7000 SoC Data Sheet: Overview](https://docs.amd.com/v/u/en-US/ds190-Zynq-7000-Overview)                                                                            | DS190  |
+| [Zynq-7000 SoC Packaging and Pinout Product Specification](https://docs.amd.com/v/u/en-US/ug865-Zynq-7000-Pkg-Pinout)                                                    | UG865  |
+| [Zynq 7000 SoC and 7 Series Devices Memory Interface Solutions User Guide](https://docs.amd.com/r/en-US/ug586_7Series_MIS/DDR3-and-DDR2-SDRAM-Memory-Interface-Solution) | UG586  |
+| [DDR2/DDR3 Low-Cost PCB Design Guidelines for Artix-7/Spartan-7 FPGAs White Paper](https://docs.amd.com/v/u/en-US/wp484-a7-s7-ddr2-3-pcb)                                | WP484  |
+| [7 Series FPGAs and Zynq-7000 SoC XADC Dual 12-Bit 1 MSPS Analog-to-Digital Converter User Guide](https://docs.amd.com/r/en-US/ug480_7Series_XADC)                       | UG480  |
+| [Zynq-7000 SoC Product Selection Guide](https://docs.amd.com/v/u/en-US/zynq-7000-product-selection-guide)                                                                | XMP087 |
+| [Artix 7 FPGAs Data Sheet: DC and AC Switching Characteristics](https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet)                                                 | DS181  |
+| [Kintex-7 FPGAs Data Sheet: DC and AC Switching Characteristics](https://docs.amd.com/v/u/en-US/ds182_Kintex_7_Data_Sheet)                                               | DS182  |
+| [7 Series FPGAs GTP Transceivers User Guide](https://docs.amd.com/v/u/en-US/ug482_7Series_GTP_Transceivers)                                                              | UG482  |
+| [7 Series FPGAs GTX/GTH Transceivers User Guide](https://docs.amd.com/v/u/en-US/ug476_7Series_Transceivers)                                                              | UG476  |
+| [7 Series FPGAs PCB Design Guide](https://docs.amd.com/v/u/en-US/ug483_7Series_PCB)                                                                                      | UG483  |
+| [Zynq 7000 SoC Software Developers Guide](https://docs.amd.com/r/en-US/ug821-zynq-7000-swdev)                                                                            | UG821  |
+| [Recommended Design Rules and Strategies for BGA Devices User Guide](https://docs.amd.com/r/en-US/ug1099-bga-device-design-rules)                                        | UG1099 |
+| [Zynq-7000 SoC DC and AC Switching Characteristics Data Sheet](https://docs.amd.com/v/u/en-US/ds187-XC7Z010-XC7Z020-Data-Sheet)                                          | DS187  |
+| [7 Series FPGAs Configuration](https://docs.amd.com/v/u/en-US/ug470_7Series_Config)                                                                                      | UG470  |
+| [MIPI D-PHY LogiCORE IP Product Guide](https://docs.amd.com/r/en-US/pg202-mipi-dphy/Introduction)                                                                        | PG202  |
+| [MIPI CSI-2 Receiver Subsystem Product Guide](https://docs.amd.com/r/en-US/pg232-mipi-csi2-rx)                                                                           | PG232  |
+| [Xilinx FPGA Video Design Hub](https://docs.amd.com/v/u/en-US/dh0083-video-hub)                                                                                          | DH235  |
+| [HDMI 1.4/2.0 Transmitter Subsystem Product Guide](https://docs.amd.com/r/en-US/pg235-v-hdmi-tx-ss/Introduction?tocId=XLSPfpAut4Tw1N_71V9XKQ)                            | PG235  |
+| [Vivado Design Suite User Guide: I/O and Clock Planning](https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_1/ug899-vivado-io-clock-planning.pdf)            | UG899  |
+| [7 Series FPGAs SelectIO Resources User Guide](https://docs.amd.com/v/u/en-US/ug471_7Series_SelectIO)                                                                    | UG471  |
 
-<img width="984" height="869" alt="image" src="https://github.com/user-attachments/assets/df68e31d-2352-4945-9230-d8baba39e07b" />
-<img width="1551" height="609" alt="image" src="https://github.com/user-attachments/assets/a3f1220d-45bc-41f7-b7b3-8ac8f64b9d51" />
-<img width="610" height="341" alt="image" src="https://github.com/user-attachments/assets/e835562a-8a72-4427-9444-4efc34663bb4" />
+### Other helpful links
 
+| Title                                                                                                                                                                                                              | Notes                                                     | Code    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------- |
+| [Xilinx Power Estimator](https://www.xilinx.com/products/technology/power/xpe.html)                                                                                                                                |                                                           |         |
+| [Digilent Arty Z7 Schematics](https://digilent.com/reference/_media/reference/programmable-logic/arty-z7/arty_z7_sch.pdf)                                                                                          |                                                           |         |
+| [Digilent Zed Board Schematics](https://digilent.com/reference/_media/reference/programmable-logic/zedboard/zedboard-schematic-rev-e1-public.pdf?srsltid=AfmBOoql7CUt0AFnhOoANW0G6yMl43WzjD8dBcZ4Vhi4z6flo701Imns) | HDMI schematic on page 5                                  |         |
+| [Xilinx XTP185 – ZC702 Schematics](https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/196/zc702_5F00_Schematic_5F00_xtp185_5F00_rev1_5F00_0.pdf)                                       | link instantly downloads pdf                              |         |
+| [TI Power Reference Design for Xilinx Zynq-7000](https://www.ti.com/lit/ug/slyu019a/slyu019a.pdf?ts=1724258668028&ref_url=https%253A%252F%252Fwww.google.com%252F)                                                 |                                                           |         |
+| [Terasic DE2-115 Schematic](https://wiki.bu.ost.ch/infoportal/_media/fpga/cyclone_iv/de2_115_schematic.pdf)                                                                                                        |                                                           |         |
+| [Avnet Minized Board Schematics + General knowledge](http://www.ebvnews.ru/doc17/MiniZed-HW-UG-v1-0-V1_0.pdf)                                                                                                      | check page 7                                              |         |
+| [How to understand Zynq Pins](https://www.avnet.com/wps/portal/us/products/avnet-boards/support/faq/zynq-pins-deep-dive/)                                                                                          |                                                           |         |
+| [Hardware and Layout Design Considerations for DDR3 SDRAM Memory Interfaces](https://hands.com/~lkcl/eoma/rockchip_rk3288/AN3940.pdf)                                                                              |                                                           |         |
+| [Gigabit Ethernet 101: Basics to Implementation](https://resources.altium.com/p/gigabit-ethernet-101-basics-implementation)                                                                                        |                                                           |         |
+| [Gigabit Ethernet Design Guide](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ApplicationNotes/ApplicationNotes/00002054A.pdf)                                                                    |                                                           |         |
+| [Ethernet PHY PCB Design Layout Checklist](https://www.ti.com/lit/an/snla387/snla387.pdf?ts=1724186585377&ref_url=https%253A%252F%252Fwww.google.com%252F)                                                         |                                                           |         |
+| [TPD12S016 HDMI Companion Chip Datasheet](https://www.ti.com/lit/ds/symlink/tpd12s016.pdf?ts=1724260463561&ref_url=https%253A%252F%252Fwww.google.com%252F)                                                        |                                                           |         |
+| [MIPI D-PHY Standard](https://www.mipi.org/specifications/d-phy#related-resources-anchor)                                                                                                                          |                                                           |         |
+| [Zynp Pins - Deep Dive: How to understand Zynq Pins](https://www.avnet.com/wps/portal/us/products/avnet-boards/support/faq/zynq-pins-deep-dive/?srsltid=AfmBOorTJiz7Mt2yYFR5GlrBl0hjKMVnr36xj8_0COGvssak9dttpD7k)  | Useful                                                    |         |
+| [ADV7511 Hardware User's Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Hardware_Users_Guide.pdf)                                                                              | "actual" datasheet of ADV7511                             |         |
+| [PCB Design Guidelines for QFN and DQFN Packages](https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ApplicationNotes/ApplicationNotes/AN18.15-PCB-Design-Guide-QFN-DQFN-Packages-00001843.pdf)        | USB2415 USB HUB                                           | AN18.15 |
+| [USB Device Design Checklist](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ApplicationNotes/ApplicationNotes/00001863B.pdf)                                                                      | USB2415 USB HUB                                           | AN26.21 |
+| [PCB Layout Guide for USB Hubs](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ApplicationNotes/ApplicationNotes/en562810.pdf)                                                                     | USB2415 USB HUB                                           | AN15.17 |
+| [PMOD Standard](https://digilent.com/reference/_media/reference/pmod/pmod-interface-specification-1_3_1.pdf)                                                                                                       |                                                           |         |
+| Texas Instruments HDMI Design Guide                                                                                                                                                                                | HDMI                                                      |         |
+| [Texas Instruments The IBIS model, Part 3: Using IBIS models to investigate signal-integrity issues](https://www.ti.com/lit/an/slyt413/slyt413.pdf?ts=1754720541924)                                               |                                                           | SLYT413 |
 
 #### PS Pins Used
 <img width="580" height="573" alt="Pasted image 20250327221556" src="https://github.com/user-attachments/assets/fcaedaf4-c1c1-46c5-912f-0de1979ed7b9" />
