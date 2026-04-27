@@ -27,7 +27,7 @@ Not all references are included because I'm not sure if they can be shared direc
 | MYB-C7Z010_20-V2 Schematic                                                                                                                                               | MYIR Docs  |
 | MYD-C7Z01020-V2 PinOuts                                                                                                                                                  | MYIR Docs, SOM Pinout  |
 | MYC-C7z010-V12-SOM-NET-LENGTH                                                                                                                                            | MYIR Docs  |
-| ADV7511_Hardware_Users_Guide                                                                                                                                             |            |
+| ADV7511_Hardware_Users_Guide                                                                                                                                             | HDMI IC    |
 | [Zynq 7000 SoC Technical Reference Manual](https://docs.amd.com/r/en-US/ug585-zynq-7000-SoC-TRM)                                                                         | UG585  |
 | [Zynq-7000 SoC PCB Design Guide](https://docs.amd.com/v/u/en-US/ug933-Zynq-7000-PCB)                                                                                     | UG933  |
 | [7 Series FPGAs SelectIO Resources User Guide](https://docs.amd.com/v/u/en-US/ug471_7Series_SelectIO)                                                                    | UG471  |
