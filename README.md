@@ -19,7 +19,7 @@ I have created a YouTube series that talks about the design which can be seen [h
 Not all references are included because I'm not sure if they can be shared directly, however, you should be able to just search for them and download them from their official source.
 
 #### Most important/relevant
-
+WIP...
 #### AMD Documentaion
 | Title                                                                                                                                                                    | Code   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
