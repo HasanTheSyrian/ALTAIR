@@ -114,8 +114,10 @@ Not all references are included because I'm not sure if they can be shared direc
 | Texas Instruments HDMI Design Guide                                                                                                                                                                                | HDMI                                                      |         |
 | [Texas Instruments The IBIS model, Part 3: Using IBIS models to investigate signal-integrity issues](https://www.ti.com/lit/an/slyt413/slyt413.pdf?ts=1754720541924)                                               |                                                           | SLYT413 |
 
-#### PS Pins Used
+<details>
+<summary>Processing System Pins Used</summary>
 <img width="580" height="573" alt="Pasted image 20250327221556" src="https://github.com/user-attachments/assets/fcaedaf4-c1c1-46c5-912f-0de1979ed7b9" />
+</details>
 
 ### Images
 
