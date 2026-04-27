@@ -1,4 +1,5 @@
 ![ALTAIR](https://github.com/user-attachments/assets/b61b74c0-defb-4e71-bc80-f6e173e74274)
+<img width="1161" height="850" alt="image" src="https://github.com/user-attachments/assets/ada5a975-57cc-4c11-9392-07703c0b5d20" />
 
 17 light-years away lies Altair, a star in the Aquila constellation. Altair is the short-form transliteration of Al-Nisr Al-Ta'ir (النسر الطائر) or "The Flying Eagle"; a predator known for its excellent vision.
 
@@ -83,8 +84,7 @@ WIP...
 
 <img width="1099" height="800" alt="image" src="https://github.com/user-attachments/assets/0d92de30-b80d-482e-ae30-7131ae2702d3" />
 
-<img width="1135" height="776" alt="image" src="https://github.com/user-attachments/assets/31364063-e56d-417c-bd2a-054085c87402" />
-
+<img width="1130" height="774" alt="Screenshot 2026-04-07 160808" src="https://github.com/user-attachments/assets/62d2506e-1ec0-47f3-9838-82c4fe8d3dc0" />
 
 
 <details>
@@ -92,5 +92,6 @@ WIP...
 <summary>Archive</summary>
 
 <img width="1110" height="803" alt="image" src="https://github.com/user-attachments/assets/3cb0f376-9b8b-4708-ab03-ded84dc060fe" />
+<img width="1180" height="851" alt="image" src="https://github.com/user-attachments/assets/1c40b4b5-1d0c-4474-aaca-3d198d22ff6e" />
 
 </details>
