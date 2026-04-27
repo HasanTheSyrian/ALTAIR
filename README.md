@@ -56,6 +56,9 @@ Not all references are included because I'm not sure if they can be shared direc
 | zybo-z7_sch                                                                                                                                                              |   |
 | zynqberry2010_sch                                                                                                                                                        |   |
 | zynqberry-zero_sch                                                                                                                                                       |   |
+| camera-module-3-schematics                                                                                                                                               | Raspberry Pi |
+| cm4io-datasheet                                                                                                                                                          | Raspberry Pi |
+| raspberry-pi-4-reduced-schematics                                                                                                                                        | Raspberry Pi |
 
 #### AMD Documentaion
 | Title                                                                                                                                                                    | Code   |
