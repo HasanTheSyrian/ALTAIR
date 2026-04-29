@@ -10,11 +10,9 @@ NOTE: THIS BOARD IS NOT TESTED YET
 ### Docs
 This board is built with the MYIR MYC-C7Z020-V2 SOM. MYIR documents can only be downloaded after providing the serial number of the MYC-C7Z020-V2 purchased, unfortunately, I can't share mine. Most MYIR hardware documents can be downlodaded from this repository. I haven't included software documents/code because the file size is too big however you can probably find them online elsewhere.
 
-AltairNotes PDF contains my notes I have written over the ~2 years I have been working on this project. Some information is basic stuff about PCB routing and some information documents how I have configured and routed my board.
+AltairNotes PDF contains my notes I have written over the ~2 years I have been working on this project. Some information is basic stuff about PCB routing and some information documents how I have configured and routed my board. I combined software and hardware PDS into PDF files ending in "COMBINED" so you can easily search for what you want.
 
-I combined software and hardware PDS into PDF files ending in "COMBINED" so you can easily search for what you want.
-
-I have created a YouTube series that talks about the design which can be seen [here](https://www.youtube.com/@hasanthesyrian_).
+I have also created a YouTube series that talks about the design which can be seen [here](https://www.youtube.com/@hasanthesyrian_).
 
 Not all references are included because I'm not sure if they can be shared directly, however, you should be able to just search for them and download them from their official source.
 
