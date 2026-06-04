@@ -119,7 +119,7 @@ Not all references are included because I'm not sure if they can be shared direc
 
 
 ### Bringup
-4/6/2026: I have soldered the power circuit and tested all rails without load and without an oscilloscope, the power circuit at least provides the correct voltages.
+28/5/2026: I have soldered the power circuit and tested all rails without load and without an oscilloscope, the power circuit at least provides the correct voltages.
 
 <img width="745" height="993" alt="image" src="https://github.com/user-attachments/assets/c1011d18-38ea-4737-b7d7-791543f3bc62" />
 
