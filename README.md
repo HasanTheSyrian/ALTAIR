@@ -3,10 +3,10 @@
 
 17 light-years away lies Altair, a star in the Aquila constellation. Altair is the short-form transliteration of Al-Nisr Al-Ta'ir (النسر الطائر) or "The Flying Eagle"; a predator known for its excellent vision.
 
-The Altair is an FPGA development board focused on image processing, specifically, stereoscopic depth calculation enabled by two MIPI camera connectors. The board implements XAPP894 since MIPI is not supported natively by Zynq 7000. The development board is built around the MYC-C7Z010_20 SOM. This board is also my graduation project/thesis for my Mechatronics Engineering degree.
+Altair is an FPGA development board focused on image processing, specifically, stereoscopic depth calculation enabled by two MIPI camera connectors and two HDMI outputs. The board implements XAPP894 since MIPI is not supported natively by Zynq 7000. The development board is built around the MYC-C7Z010_20 SOM. This board is also my graduation project/thesis for my Mechatronics Engineering degree.
 
 ---
-NOTE: THIS BOARD IS NOT TESTED YET
+NOTE: THIS BOARD IS NOT TESTED FULLY YET - SEE BRINGUP SECTION BELOW
 ### Docs
 This board is built with the MYIR MYC-C7Z020-V2 SOM. MYIR documents can only be downloaded after providing the serial number of the MYC-C7Z020-V2 purchased, unfortunately, I can't share mine. Most MYIR hardware documents can be downlodaded from this repository. I haven't included software documents/code because the file size is too big however you can probably find them online elsewhere.
 
@@ -116,6 +116,13 @@ Not all references are included because I'm not sure if they can be shared direc
 <summary>Processing System Pins Used</summary>
 <img width="580" height="573" alt="Pasted image 20250327221556" src="https://github.com/user-attachments/assets/fcaedaf4-c1c1-46c5-912f-0de1979ed7b9" />
 </details>
+
+
+### Bringup
+4/6/2026: I have soldered the power circuit and tested all rails without load and without an oscilloscope, the power circuit at least provides the correct voltages.
+
+<img width="745" height="993" alt="image" src="https://github.com/user-attachments/assets/c1011d18-38ea-4737-b7d7-791543f3bc62" />
+
 
 ### Images
 
