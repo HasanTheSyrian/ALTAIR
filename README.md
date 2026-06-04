@@ -114,6 +114,7 @@ Not all references are included because I'm not sure if they can be shared direc
 
 <details>
 <summary>Processing System Pins Used</summary>
+  *mostly accurate, one of the I2Cs highlighted was not used in the final design double check with the schematic
 <img width="580" height="573" alt="Pasted image 20250327221556" src="https://github.com/user-attachments/assets/fcaedaf4-c1c1-46c5-912f-0de1979ed7b9" />
 </details>
 
